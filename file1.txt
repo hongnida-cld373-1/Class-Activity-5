@@ -1,3 +1,4 @@
 task 2: add some text
 task 7: collaborator text
 task 12: local text
+task 18: new collaborator text 
